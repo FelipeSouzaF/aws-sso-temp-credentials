@@ -9,7 +9,7 @@
     chmod +x /usr/local/bin/aws-temp-credential.sh
 ```
 
-# Usage
+## Usage
 
 ```shell
     # configure your $HOME/.aws/config file with your profile
